@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingkun Fan"
-description              : "PhD candidate in Computational Mathematics at Wuhan University"
+description              : "PhD candidate in Computational Mathematics"
 repository               : "qingkun-fan/qingkun-fan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingkun Fan （范庆坤）"
+  name             : "Qingkun Fan (范庆坤)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
