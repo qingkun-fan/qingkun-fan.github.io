@@ -37,9 +37,9 @@ If you have any questions or would like to get in touch, feel free to reach out 
 - *2024.09*: &nbsp;🎉🎉 I have obtained the [IOP Trusted Reviewer](https://accreditations.ioppublishing.org/a54eec9a-1360-4dea-a8e3-3bfc0e849adf#acc.W1lLQkCy) Certification from IOP Publishing!
 
 # 📝 Journal Publications
-- **Qingkun Fan**, Lewei Zhao, Xiaoqiang Li, et al. [A novel fast robust optimization algorithm for intensity-modulated proton therapy with minimum monitor unit constraint](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17285), *Medical Physics*, 51(9) 6220-6230, (2024).
+- **Qingkun Fan**, Lewei Zhao, Xiaoqiang Li, et al. [Optimizing spot-scanning proton arc therapy with a novel spot sparsity approach](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17517), *Medical Physics*, 52(3) 1789-1797, (2025).
 
-- **Qingkun Fan**, Lewei Zhao, Xiaoqiang Li, et al. [Optimizing spot-scanning proton arc therapy with a novel spot sparsity approach](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17517), *Medical Physics*, (2024).
+- **Qingkun Fan**, Lewei Zhao, Xiaoqiang Li, et al. [A novel fast robust optimization algorithm for intensity-modulated proton therapy with minimum monitor unit constraint](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17285), *Medical Physics*, 51(9) 6220-6230, (2024).
 
 - **Qingkun Fan**, Xiaoyuan Zhang, Riao Dao, et al. [Optimizing linear energy transfer distribution in intensity-modulated proton therapy using the alternating direction method of multipliers](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1328147), *Frontiers in Oncology*, 1328147, (2024).
 
@@ -59,11 +59,12 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 
 # 🎖 Honors and Awards
+- 2025.03 IOP Outstanding Reviewer Awards 2024, IOP Publishing
 - 2024.12 Outstanding Graduate Student, Wuhan University
 - 2021.12 China Post-Graduate Mathematical Contest in Modeling - Second Prize
 - 2021.07 Outstanding Undergraduate Thesis, Northwestern Polytechnical University
 - 2021.07 Outstanding Graduate, Northwestern Polytechnical University
-- 2020.12 National Scholarship (Undergraduate)
+- 2020.12 National Scholarship (Undergraduate)d
 
 
 # 💬 Talks
